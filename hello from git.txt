@@ -1,2 +1,2 @@
 hello from git
-nandu is working on githup
+nandu is working on git
